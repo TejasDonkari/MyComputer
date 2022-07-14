@@ -2,3 +2,7 @@ this is chat Application
 emoji
 type option
 colors
+
+add
+add
+add
